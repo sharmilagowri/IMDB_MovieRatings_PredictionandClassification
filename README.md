@@ -1,1 +1,3 @@
 # IMDB_MovieRatings_PredictionandClassification
+
+Prediction of IMDB Score and classification of the movie ratings into three categories low ,medium, high by binning the IMDB Score. The IMDB movie dataset consists of 5043 records and 28 different variables. The target variable or dependent variable is IMDB Score. There are 27 explanatory or independent variables available in the dataset. We have explored the relationships between the dependent variable and the explanatory variables. Applied Regression, Neural network for prediction of IMDB Score and the Logistic Regression, KNN for Classification. Detailed about factors affecting the gross income of the movie and different factors which will contribute to commercial success of the movie.
